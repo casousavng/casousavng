@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Carlos Sousa know here as @casousavng
-- 👀 I’m interested in developing new skill and projects.
-- 🌱 I’m currently learning some more programming languagens, has i already know JAVA and Pyhton, to have more power to build better apps and software.
-- 💞️ I’m looking to collaborate on every project that needs my help, just for the thrill to learn and help others.
-- 📫 How to reach me? It's easy, just follow my Linkdin @casousavng
-- ⚡ Fun fact: Just build this for fun, but its getting pretty serious.
+- 👋 Hi, I’m Carlos Sousa (known here as @casousavng) — IT Engineer registered with the Ordem dos Engenheiros Técnicos, holding a Bachelor's degree in Computer Engineering from ISPGAYA, and a certified pedagogical trainer (CCP).
+- 💻 Currently pursuing a Master's degree in Cybersecurity and working as a technical lead specializing in AI architecture and technical excellence.
+- 🌱 Building robust, secure applications and software solutions, expanding beyond core foundations in Java and Python into advanced systems, automation tools, and modern AI workflows.
+- 🤝 Open to professional collaborations, IT consulting, software development projects, and technical training opportunities.
+- 📫 How to reach me: Connect with me on LinkedIn at [@casousavng](https://www.linkedin.com/in/casousavng).
+- ⚡ Fun fact: Driven by a continuous passion for learning, engineering systems, and turning technical challenges into scalable, high-impact products.
 
 <!---
 casousavng/casousavng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
